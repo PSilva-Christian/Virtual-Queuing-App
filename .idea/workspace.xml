@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13a70f43-9eec-452d-8bd9-ceab79bf17be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/.vscode/mcp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/src/app/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/src/app/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/src/app/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/src/app/app.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/src/app/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Senha/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/SenhaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/controllers/SenhaController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/entity/SenhaEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/entity/SenhaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/repository/SenhaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/services/SenhaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spring/src/test/java/org/silvachristian/senha/SenhaApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3AH9WE6szkVRfkbYBq0XDTBvKg6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-DatabaseConfigFileWatcher.found": "New/updated database configurations found",
+    "Notification.DoNotAsk-DatabaseConfigFileWatcher.found": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.SenhaApplication.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Spring" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SenhaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="senha" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.silvachristian.senha.SenhaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13a70f43-9eec-452d-8bd9-ceab79bf17be" name="Changes" comment="" />
+      <created>1772238659734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772238659734</updated>
+      <workItem from="1772238660974" duration="152000" />
+      <workItem from="1772238854403" duration="139000" />
+      <workItem from="1772239046568" duration="882000" />
+      <workItem from="1772240115150" duration="340000" />
+      <workItem from="1772240486431" duration="562000" />
+      <workItem from="1772241107588" duration="41000" />
+      <workItem from="1772241177416" duration="283000" />
+      <workItem from="1772241464323" duration="2000" />
+      <workItem from="1772241501077" duration="273000" />
+      <workItem from="1772241785287" duration="262000" />
+      <workItem from="1772242087455" duration="221000" />
+      <workItem from="1772242340105" duration="1125000" />
+      <workItem from="1772243677096" duration="318000" />
+      <workItem from="1772244025709" duration="2603000" />
+      <workItem from="1772308323083" duration="1974000" />
+      <workItem from="1772310338600" duration="49000" />
+      <workItem from="1772310413649" duration="2306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

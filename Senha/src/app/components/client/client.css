@@ -1,0 +1,22 @@
+button{
+    margin: 7% 5% 7% 5%;
+    border: 1px solid purple;
+    background-color: #000000;
+}
+.chooseTitle{
+    font-size: 36px;
+}
+
+.chooseTicket{
+    color: #000000;
+    font-weight: bolder;
+    font-style: normal;
+    font-display: block;
+}
+
+.iconImage{
+    width: 48px;
+    height: 48px;
+    image-rendering: pixelated;
+    
+}

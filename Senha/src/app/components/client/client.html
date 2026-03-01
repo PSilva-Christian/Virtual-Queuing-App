@@ -1,0 +1,17 @@
+<main class="container text-center shadow-lg border border-2 mt-5 round rounded bg-light">
+
+    <div class="container text-center chooseTitle mt-4 fw-bold ">
+        <img class="iconImage opacity-75" src="/icons/ticket.png" alt="">
+        <span class="ps-3 chooseTicket opacity-75">Escolha uma senha:</span>
+    </div>
+
+    <div class="row">
+        <button (click)="addCounter()" class="col btn btn-lg btn-dark fw-bolder opacity-75">Senha Normal</button>
+        <button (click)="addCounter()" class="col btn btn-lg btn-dark fw-bolder opacity-75">Senha Prioridade</button>
+    </div>
+
+    <div class="container text-center chooseTitle">
+        <p class="chooseTicket fw-bolder opacity-75">Cliente número: {{mycounter}}
+        </p>
+    </div>
+</main>

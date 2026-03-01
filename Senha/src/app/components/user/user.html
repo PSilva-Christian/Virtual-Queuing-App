@@ -1,0 +1,55 @@
+<main class="m-5 shadow-lg bg-light border border-2 round rounded-5 ">
+    <div class="container text-center">
+
+        <div class="row mt-2 me-5">
+            <div class="col order-last m-5 text-end">
+                <button (click)="callNext()" class="btn btn-lg btn-outline-light btn-dark fw-bolder">
+                    Próxima Senha
+                </button>
+                <button (click)="callOutros()" class="btn btn-lg btn-outline-light btn-dark ms-3 fw-bolder">
+                    Outros
+                </button>
+            </div>
+
+            <div class="col order-first">
+                <p class="h2 fw-bolder opacity-75 mt-5 underline">Atendimento atual:</p>
+            </div>
+        </div>
+
+        <div class="row pb-5">
+            <div class=" p-3 col order-first container border border-2 round rounded-3 shadow-lg">
+                <div class="row">
+                    <ul class="col-7 list-group p-2 fw-bolder h5 text-center">
+                        <li class="list-group-item">Senha atual:</li>
+                        <li class="list-group-item">Tipo de senha:</li>
+                        <li class="list-group-item">Horário de chegada:</li>
+                        <li class="list-group-item">Horário de chamada:</li>
+                    </ul>
+
+                    <ul class="col-5 list-group p-2 fw-bolder h5 text-center">
+                        <li class="list-group-item">Nenhuma</li>
+                        <li class="list-group-item">Nulo</li>
+                        <li class="list-group-item">00:00</li>
+                        <li class="list-group-item">00:00</li>
+                    </ul>
+
+                </div>
+            </div>
+
+            <div class="col order-last container mx-5">
+
+                <div class="container col-12 border border-2 round rounded-3 mx-5 shadow-lg">
+                    <p class="fw-bolder h4 opacity-75 p-1">Atendimentos</p>
+                    <p class="fw-bolder h5 opacity-75 p-1">0</p>
+                </div>
+
+                <div class="container col-12 border border-2 round rounded-3 mx-5 shadow-lg mt-5">
+                    <p class="fw-bolder h4 opacity-75 p-1">Tempo médio de Atendimento</p>
+                    <p class="fw-bolder h5 opacity-75 p-1">00:00</p>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</main>

@@ -4,7 +4,6 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.NonNull;
 import lombok.Setter;
-import java.util.Date;
 
 @Entity(name = "ticket")
 @Table(name = "tickets")
@@ -19,7 +18,10 @@ public class SenhaEntity {
     @NonNull
     private Integer number;
     @NonNull
-    private Date data;
+    private String date;
     @NonNull
     private Integer typeId;
+    @NonNull
+    private String callTime;
+
 }

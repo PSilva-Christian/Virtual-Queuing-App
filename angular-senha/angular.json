@@ -54,10 +54,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "Senha:build:production"
+              "buildTarget": "senha-angular-app:build:production"
             },
             "development": {
-              "buildTarget": "Senha:build:development"
+              "buildTarget": "senha-angular-app:build:development"
             }
           },
           "defaultConfiguration": "development"

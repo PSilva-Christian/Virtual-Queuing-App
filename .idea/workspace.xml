@@ -6,14 +6,55 @@
   <component name="ChangeListManager">
     <list default="true" id="13a70f43-9eec-452d-8bd9-ceab79bf17be" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Senha/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/Senha/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Senha/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Senha/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Senha/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Senha/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Senha/src/app/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/Senha/src/app/app.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Senha/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Senha/src/app/app.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Senha/src/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Senha/src/app/app.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Senha/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Senha/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Senha/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Senha/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/.vscode/mcp.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/.vscode/mcp.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/.vscode/tasks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/public/icons/head.png" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/public/icons/head.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/public/icons/ticket.png" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/public/icons/ticket.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/app.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/app/app.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/app/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/app.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/app/app.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/app/app.routes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/app.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/app/app.spec.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/app.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/app/app.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/client/client.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/client/client.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/client/client.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/client/client.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/footer/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/footer/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/footer/footer.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/footer/footer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/header/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/header/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/header/header.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/header/header.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/user/user.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/user/user.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/user/user.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/app/components/user/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/material-theme.scss" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/material-theme.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Senha/tsconfig.spec.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular-senha/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/controllers/SenhaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/controllers/SenhaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/entity/SenhaEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/entity/SenhaEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/entity/SenhaInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/entity/SenhaInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/repository/SenhaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/repository/SenhaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/services/SenhaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Spring/src/main/java/org/silvachristian/senha/services/SenhaService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +66,7 @@
       <list>
         <option value="Class" />
         <option value="Interface" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -50,40 +92,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;New/updated database configurations found&quot;,
-    &quot;Notification.DoNotAsk-DatabaseConfigFileWatcher.found&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;Spring Boot.SenhaApplication.executor&quot;: &quot;Run&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Docker.Senha/Dockerfile.executor": "Run",
+    "Docker.angular-senha/Dockerfile: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.angular-app: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml.spring-app: Compose Deployment.executor": "Run",
+    "Docker.docker-compose.yml: Compose Deployment.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-DatabaseConfigFileWatcher.found": "New/updated database configurations found",
+    "Notification.DoNotAsk-DatabaseConfigFileWatcher.found": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.SenhaApplication.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/home/christianpereira/.local/share/JetBrains/Toolbox/apps/intellij-idea-ultimate/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Spring" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Docker.docker-compose.yml.spring-app: Compose Deployment">
     <configuration name="SenhaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <module name="senha" />
@@ -92,6 +141,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="angular-senha/Dockerfile: Compose Deployment" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="angular-senha/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.angular-app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="angular-app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yml.spring-app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="spring-app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml.spring-app: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Docker.angular-senha/Dockerfile: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml.angular-app: Compose Deployment" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -127,11 +232,39 @@
       <workItem from="1772310413649" duration="7938000" />
       <workItem from="1772362803001" duration="195000" />
       <workItem from="1772381775570" duration="585000" />
-      <workItem from="1772387133304" duration="3413000" />
+      <workItem from="1772387133304" duration="6114000" />
+      <workItem from="1772404262711" duration="6133000" />
+      <workItem from="1772456859262" duration="3670000" />
+      <workItem from="1772485982211" duration="2333000" />
+      <workItem from="1772501805464" duration="4903000" />
+      <workItem from="1772545567683" duration="2628000" />
+      <workItem from="1772580031097" duration="3000" />
+      <workItem from="1772580073269" duration="839000" />
+      <workItem from="1772591181535" duration="1895000" />
+      <workItem from="1772629826432" duration="3432000" />
+      <workItem from="1772635362818" duration="1010000" />
+      <workItem from="1772659277865" duration="8000" />
+      <workItem from="1772667812585" duration="300000" />
+      <workItem from="1772675578129" duration="727000" />
+      <workItem from="1772676360398" duration="21000" />
+      <workItem from="1772676400100" duration="1691000" />
+      <workItem from="1772715893466" duration="4431000" />
+      <workItem from="1772762069299" duration="1565000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

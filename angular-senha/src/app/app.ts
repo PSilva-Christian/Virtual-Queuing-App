@@ -1,7 +1,7 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import { Header } from './components/header/header';
-import { Footer } from "./components/footer/footer";
+import { Header } from './shared/components/header/user';
+import { Footer } from "./shared/components/footer/footer";
 
 @Component({
   selector: 'app-root',
@@ -10,5 +10,5 @@ import { Footer } from "./components/footer/footer";
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('Senha');
+  protected readonly title = signal('senha-app-angular');
 }

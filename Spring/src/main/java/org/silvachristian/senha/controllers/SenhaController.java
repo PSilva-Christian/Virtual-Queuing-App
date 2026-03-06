@@ -9,6 +9,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping(("/senhas"))
+@CrossOrigin(origins = "http://localhost:4200")
 public class SenhaController {
 
     private final SenhaService senhaService;
@@ -23,12 +24,17 @@ public class SenhaController {
     }
 
     @GetMapping
-    public List<SenhaEntity> getSenhas(){
+    public List<SenhaEntity> getSenha(){
         return senhaService.showAll();
     }
 
     @DeleteMapping()
     public SenhaInterface delSenha() {
         return senhaService.deleteSenha();
+    }
+
+    @GetMapping("/increment")
+    public Integer incrementSenha() {
+        return senhaService.getLastSenhaNumber();
     }
 }

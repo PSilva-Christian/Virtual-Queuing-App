@@ -1,6 +1,6 @@
 import { Routes } from '@angular/router';
-import { Client } from './components/client/client';
-import { User } from './components/user/user';
+import { Client } from './shared/components/client/client';
+import { User } from './shared/components/user/user';
 
 export const routes: Routes = [
     {
